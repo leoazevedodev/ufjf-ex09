@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1685818197 source:c:\users\leona\documents\ufjf\ed\ex09 - pilha & filas\pilhaencad.cpp
+	<iostream>
+	<cstdlib>
+	"PilhaEncad.h"
+
+1685818211 c:\users\leona\documents\ufjf\ed\ex09 - pilha & filas\pilhaencad.h
+	"No.h"
+
+1528122242 c:\users\leona\documents\ufjf\ed\ex09 - pilha & filas\no.h
+
+1685822356 source:c:\users\leona\documents\ufjf\ed\ex09 - pilha & filas\filaencad.cpp
+	<iostream>
+	<cstdlib>
+	"FilaEncad.h"
+
+1685822515 c:\users\leona\documents\ufjf\ed\ex09 - pilha & filas\filaencad.h
+	"No.h"
+
+1685834948 source:c:\users\leona\documents\ufjf\ed\ex09 - pilha & filas\main.cpp
+	<iostream>
+	"PilhaEncad.h"
+	"FilaEncad.h"
+
